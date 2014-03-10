@@ -1,0 +1,64 @@
+#######################################
+# HC595
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+HC595	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+enableDbg	KEYWORD2
+enableOutput	KEYWORD2
+writeByte	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+HC595_PIN_NC	LITERAL1
+HC595_ERR_PIN	LITERAL1
+HC595_ERR_INIT	LITERAL1
+HC595_HELF_CLK_US	LITERAL1
+
+
+
+####################################################
+
+#######################################
+# MTADRL293D
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+MTADRL293D	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin				KEYWORD2
+enableDbg			KEYWORD2
+setMotorDir			KEYWORD2
+setMotorSpeed		KEYWORD2
+setMinMotorSpeed	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+MTADRL293D_DIR_POS	LITERAL1
+MTADRL293D_DIR_NEG	LITERAL1
+MTADRL293D_M_NUM	LITERAL1
+MTADRL293D_M1		LITERAL1
+MTADRL293D_M2		LITERAL1
+MTADRL293D_M3		LITERAL1
+MTADRL293D_M4		LITERAL1
+
+MTADRL293D_SPEED_MAX		LITERAL1
+MTADRL293D_SPEED_MIN		LITERAL1
+MTADRL293D_SPEED_MIN_DEF	LITERAL1
+
+MTADRL293D_ERR_PARM	LITERAL1
+MTADRL293D_ERR_INIT	LITERAL1
